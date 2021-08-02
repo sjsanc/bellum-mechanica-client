@@ -1,0 +1,29 @@
+{
+  "x": 6,
+  "y": 6,
+  "obstacleCount": 5,
+  "teams": [
+    {
+      "name": "Yoloboyz",
+      "bots": [
+        {
+          "name": "Chinaman",
+          "loadout": {
+            "primary": "Knife"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Longdongs",
+      "bots": [
+        {
+          "name": "Dirkie",
+          "loadout": {
+            "primary": "Knife"
+          }
+        }
+      ]
+    }
+  ]
+}

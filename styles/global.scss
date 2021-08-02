@@ -1,0 +1,15 @@
+@import 'colors';
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Staatliches&display=swap');
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.app {
+  background: $dark1;
+}
+
+main {
+  height: 100vh;
+}
